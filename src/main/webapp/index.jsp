@@ -329,8 +329,6 @@
 		});
 		</script>
 		<script src="resources/js/slider.js"></script>
-
 	</div>
-
 </body>
 </html>
