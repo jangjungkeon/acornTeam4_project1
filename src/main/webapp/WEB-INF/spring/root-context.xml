@@ -7,7 +7,7 @@
 	<bean id="dataSource" class="pack.model.MyDataSource"/>
 	
 	<bean class="org.mybatis.spring.SqlSessionFactoryBean">
-	<property name="dataSource" ref="dataSource"/>
-	<property name="configLocation" value="classpath:pack/mybatis/Configuration.xml"/>
+		<property name="dataSource" ref="dataSource"/>
+		<property name="configLocation" value="classpath:pack/mybatis/Configuration.xml"/>
 	</bean>		
 </beans>
