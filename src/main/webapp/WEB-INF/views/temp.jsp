@@ -3,7 +3,7 @@
 <head>
 <title>FileUpload Form</title>
 </head>
-<body>
+<body>¤·asdfsadf
 		<form action="fileUpload.jsp" method="post"
 			enctype="multipart/form-data">
 			<table border="3">
